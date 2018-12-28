@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "title": "Stranger Bot Development Status"
+      "title": "Stranger Bot Development Status",
       "body": "Working on the Dev Status Command. Will be working on a Private bot for a community once done ;)" 
     }
   ],
